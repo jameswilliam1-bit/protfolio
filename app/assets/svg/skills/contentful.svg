@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="12" fill="#06b6d4"/>
+  <circle cx="24" cy="26" r="10" fill="#67e8f9"/>
+  <circle cx="40" cy="38" r="10" fill="#0ea5e9"/>
+  <path d="M22 38c2.5-6 8-10 14-10 3.5 0 6.8 1.2 9.5 3.5" stroke="#022c22" stroke-width="3" stroke-linecap="round"/>
+  <text x="32" y="58" text-anchor="middle" fill="#ecfeff" font-family="Arial, sans-serif" font-size="10" font-weight="700">Contentful</text>
+</svg>

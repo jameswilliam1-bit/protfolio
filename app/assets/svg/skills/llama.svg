@@ -1,0 +1,9 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="12" fill="#f97316"/>
+  <path d="M24 46c0-6 2-14 8-14s8 8 8 14" stroke="#fff7ed" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M22 30c2-6 6-10 10-10s8 4 10 10" stroke="#fed7aa" stroke-width="3" stroke-linecap="round"/>
+  <path d="M22 26l-2-6m24 6l2-6" stroke="#7c2d12" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="26" cy="30" r="2" fill="#1f2937"/>
+  <circle cx="38" cy="30" r="2" fill="#1f2937"/>
+  <text x="32" y="56" text-anchor="middle" fill="#fff7ed" font-family="Arial, sans-serif" font-size="10" font-weight="700">LLaMA</text>
+</svg>

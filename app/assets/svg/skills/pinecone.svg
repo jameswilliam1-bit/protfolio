@@ -1,0 +1,8 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="12" fill="#0f766e"/>
+  <path d="M32 10l6 8-6 6-6-6 6-8z" fill="#2dd4bf"/>
+  <path d="M32 24l7 7-7 7-7-7 7-7z" fill="#14b8a6"/>
+  <path d="M32 38l5 6-5 7-5-7 5-6z" fill="#0d9488"/>
+  <path d="M20 30c8 2 16 2 24 0" stroke="#ecfeff" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+  <text x="32" y="59" text-anchor="middle" fill="#ecfeff" font-family="Arial, sans-serif" font-size="10" font-weight="700">Pinecone</text>
+</svg>
